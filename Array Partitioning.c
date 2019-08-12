@@ -1,5 +1,5 @@
 /*
-    Array partitioning so that difference of sum of two sub arrays is minimum
+    Divide array into two parts so that difference of sum of two sub arrays is minimum
 */
 
 #include <stdio.h>
