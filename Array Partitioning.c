@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-
+//Function Declarations
 void swap();
 void permute();
 void solve();
