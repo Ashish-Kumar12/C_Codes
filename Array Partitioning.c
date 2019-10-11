@@ -122,3 +122,4 @@ void print_sol(int cnt, int n[cnt], int a)
 
     exit(0);
 }
+/*Program End*/
